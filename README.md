@@ -17,9 +17,10 @@ I build full products end to end: a Flutter travel app with a Supabase backend a
 |---|---|---|---|
 | **Travixx** | Graduation project. Travel guide for Türkiye: 81 cities, 750+ places, QR codes at each site, GPS distance sorting, 6 languages (incl. Arabic RTL) and a Gemini-powered AI route planner. Row Level Security on every table. | Flutter · Supabase (PostgreSQL, Auth, RLS) · Gemini API · GitHub Actions | [Repo](https://github.com/aydnomer/TRAVIXX) · [Live demo](https://aydnomer.github.io/TRAVIXX/) |
 | **Taxi Platform** | Platform sold to taxi stands: every stand gets its own site, every driver a page and a phone "app", reached from NFC/QR cards in the car. Live availability from Supabase, auto-deployed on every push. | JavaScript · esbuild · Supabase · GitHub Actions | [Repo](https://github.com/aydnomer/taksi-platform) · [Live](https://aydnomer.github.io/taksi-platform) |
-| **DELUXSE Teknoloji** | E-commerce site and admin panel for a phone-accessories brand in Diyarbakır: retail store, dealer (B2B) section with server-side pricing, and an installable admin app for orders, stock and settings. Hardened with CSRF protection, rate limiting and CSP. Private client code. | PHP · JavaScript · nginx · PWA | [Live](https://deluxseteknoloji.com.tr) |
 | **Emniyet Taksi** | Website and installable PWA for a real taxi business, running on its own domain. | HTML · CSS · JavaScript · PWA | [Repo](https://github.com/aydnomer/emniyet-taksi-web) · [Live](https://emniyettaksi.com.tr) |
+| **DELUXSE Teknoloji** | E-commerce site and admin panel for a phone-accessories brand in Diyarbakır: retail store, dealer (B2B) section with server-side pricing, and an installable admin app for orders, stock and settings. Hardened with CSRF protection, rate limiting and CSP. Private client code. | PHP · JavaScript · nginx · PWA | [Live](https://deluxseteknoloji.com.tr) |
 | **Collatz RNG** | Pseudo-random number generator based on the 3n+1 problem, with an analysis of why it is not cryptographically secure (Information Security course). | JavaScript | [Repo](https://github.com/aydnomer/BSG_RNG_OMER) |
+| **CS50P Solutions** | My solutions to Harvard's CS50 Introduction to Programming with Python, published week by week. | Python | [Repo](https://github.com/aydnomer/cs50p-solutions) |
 
 ## 🛠️ Tech I've Used in These Projects
 
